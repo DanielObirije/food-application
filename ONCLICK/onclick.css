@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  section{
+      padding: 20px 90px;
+      max-width: 100%;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      background-color:  rgb(219, 222, 235);
+  }
+  
+  img{
+      max-width: 60vmin;
+      min-height: 40vmin;
+  }
+  h1{
+      font-size: 5vmin;
+  }
+  h3{
+      font-size: 4vmin;
+  }
+  p{
+      font-size: 2.5vmin;
+  }
+  h4{
+      font-size: 3vmin;
+  }
+  .text{
+      max-width: 80rem;
+  }
+  
+  
